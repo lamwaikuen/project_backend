@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thomas-venturenix-project",
+  "private_key_id": "cd11cd7ef3427cd2f6c2a0f2aacdbd88b8d07c9c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOEbbfSsmpML4N\nkIKZLEWP966t0kKhg5XJKvGCY85/NwckpCQdJ2zeZo9v22XPmuHEH1zgAQmDwr/f\n4/SJi8A65FS7FM/e4nnJho0xzmu7uYeOSAoOIl68DyptpVt8zHoIBXArqr20yIsH\ntVOIWDb/9RIOUvsTrUN+PH3fVFab/Xbp/y3Pp5WJm+g2iNyXJ7aJPwkeV86hR745\n1TvgR2FotKqCNC8AjtXspA3LrRdDwJqKCxWpt0VRjF9Z+NsVOhWE2KI4mmAtT0U4\nvA7UftQqJEB6UBdLa4837B/ZRFpqFpPhr4LxLlLSdIJ0rUbg3lziP8B96TFpkAPf\n40ruz/F/AgMBAAECggEADAtYA3QVFlj9esB8CaTfSfthj9JOx67vtcrXQ9Y+jwvx\n1G/tlnCj+dnHv3N0323/jR2CKauV2UgsO9NQiyuKaEbJNwgP4Eifcqp1HTih7l55\nMFVAlTPoEpjWU4NLNh+jcE2VEVBQ9zyTd7de8wSo7kvuKr0p5KwHWl0BxGhjCYnr\nn799pB8JQWK9fFRxv6QFshHGPw7k6IqasA6L2qUTSVsz7ynQQnEmEd+WnyWYURkP\nbr7GMzetzVqP+1uWgdfM1ug3AOQUIAT2drWY0MmAQMRNdyyvvoFDfHVf+W5p+VaW\nAulW7L0Wy0wATgEoztkUu/5B1G764vsetUBQh6Ww6QKBgQD0FqPGdp+Kwip53MIR\nX8HTLyFtObD4f60hHu5dRCDiZmLUsSi6244xWCWpMDtC9qH8h1yxfm8LxGXi1D/V\n2VhHYVqwGBXAXHU4AVi2mWtIkeVDeg8tAEnuRQhDwWzLBB3GGO7n4occT/aSaVez\nSa25pIld7kgWlA39PxECpAl0mQKBgQDYIBseZKX5cP8F9FSKDKybd9MR9o2knPEL\nqvnbFqh9LP4b1QEzO8xhJSQacP3pX7UFR2dz6JeFCTMYYULe1/KZ7dJ+iLQkCVGm\nDLY29MgFvueXBFH2ej9WDHZtQ+RMSDpGndsurxUdsHPfZxjWuQw9/FFhWGfGZPZe\nJ0Ci/FVN1wKBgFkhJz6iNFHb4tzK4sarW8B81kznIxsqrBKLE+lUpllln7Mg2cmZ\nwIt+L4pfRVSHcNEgsJVToMMAPWAdtw2kptqxzwa8VL0ARgFkZHuQ/B7sv3XrTT1W\nfKiX5pOvPsXHRAQBOMPN8R5CiLwf4Vljjx9Z2JtHFmXAPHd8Hv8C3T0JAoGBALcT\nQ0WUpo/NKwoFNVOXduNfNjmCK+vkUb+7flkbMXCPm1VCMvkOT4t+5b1MN5nny7SE\nDts9jJRR/alKQlX4gXXo4iTzcf0Qs8w/+l5FLebIFu9y5mcumNYwSmU2XH5NtKe6\n8j7yaqWyogT9FSpWqEsdoGYgeA+z2IpbH8KwkyYTAoGAFnEEvDORbWq7WdP2bVAW\nohnQTxZneCX1LAdwFb93KMWwkGYS20KG0KLQ7ab7ekdLXxZaq6wq4DiUkAKoT4KD\nkMmWDeb1fgXbO+aBOgLJ/fxNxaBnlQTZblLtiTRjet676XPjLf1L4Q0/Go82BCcm\ncO4ysC3yJEN7M81+VCcdZ4g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nufam@thomas-venturenix-project.iam.gserviceaccount.com",
+  "client_id": "103842931333992624429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nufam%40thomas-venturenix-project.iam.gserviceaccount.com"
+}
